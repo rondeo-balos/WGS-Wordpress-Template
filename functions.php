@@ -6,3 +6,5 @@
   add_action('wp_enqueu_scripts','custom_theme_assets');
   
   register_nav_menus(['primary'=>__('Primary Menu')]);
+
+/* woocommerce compatibility */
