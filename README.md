@@ -16,3 +16,7 @@
 /* must be implemented soon... */
 
 -rondeo
+
+note:
+  primary color - #009688
+  secondary color - #f44336
